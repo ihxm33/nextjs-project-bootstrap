@@ -1,0 +1,9 @@
+{
+  "rules": [
+    {
+      "path": "wp-content/themes/impacthxm/style.css",
+      "allowOverride": true,
+      "allowCreate": true
+    }
+  ]
+}
